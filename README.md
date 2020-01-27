@@ -1,0 +1,2 @@
+# mean.example2.com
+An Express-based web site and REST API with user authentication.
