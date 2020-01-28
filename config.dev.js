@@ -1,3 +1,3 @@
 var config = {};
-config.mongodb = 'mongodb://localhost/mean2-cms';
+config.mongodb = 'mongodb://localhost/cms';
 module.exports = config;
